@@ -16,7 +16,7 @@ public class Exercice10 {
 			break;
 		case 2:
 			for (int i=0; i<array2.length;i++) {
-				System.out.println();
+				System.out.println(array2[i]);
 			}
 			break;
 			default:
