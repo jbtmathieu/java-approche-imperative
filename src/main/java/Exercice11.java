@@ -1,10 +1,9 @@
 import java.util.Scanner;
-
+//TP05
 public class Exercice11 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		//Fait à la maison
+		//Fait ï¿½ la maison
 		int choix;
 		int rangN = 0, cpt = 0;
 		int valA=0,valB=1;

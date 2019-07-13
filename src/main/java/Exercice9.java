@@ -1,9 +1,8 @@
 import java.util.Scanner;
-
+//TP05
 public class Exercice9 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
 		Scanner scanner= new Scanner(System.in);
 		double[] nombreChoisi= new double[10];

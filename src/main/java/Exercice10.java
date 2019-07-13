@@ -1,8 +1,9 @@
 import java.util.Scanner;
 
 public class Exercice10 {
-
+	//TP05
 	public static void main(String[] args) {
+
 		Scanner scanner= new Scanner(System.in);
 		double[] array= new double[10];
 		double[] array2 = new double[10];

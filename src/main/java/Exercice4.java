@@ -1,9 +1,8 @@
 import java.util.Scanner;
-
+//TP05
 public class Exercice4 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
 		/* Affichage de la table du nombre */
 		Scanner scanner= new Scanner(System.in);
