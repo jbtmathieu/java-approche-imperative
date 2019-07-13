@@ -1,3 +1,5 @@
+package TP05;
+
 import java.util.Scanner;
 
 public class Exercice10 {

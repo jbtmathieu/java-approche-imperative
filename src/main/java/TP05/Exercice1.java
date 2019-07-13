@@ -1,3 +1,5 @@
+package TP05;
+
 //TP05 - Approche Imperative
 public class Exercice1 {
 

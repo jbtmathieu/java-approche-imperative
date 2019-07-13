@@ -1,3 +1,5 @@
+package TP05;
+
 //TP05
 public class Exercice2 {
 

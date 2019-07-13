@@ -1,3 +1,5 @@
+package TP05;
+
 import java.util.Scanner;
 //TP05
 public class Exercice9 {
@@ -26,7 +28,7 @@ public class Exercice9 {
 	
 		} while (i<10);
 			
-			System.out.println("Le plus grand des nombres tapés est : "+ valeurMax);
+			System.out.println("Le plus grand des nombres tapï¿½s est : "+ valeurMax);
 	}
 
 }
